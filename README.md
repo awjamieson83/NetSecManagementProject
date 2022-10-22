@@ -1,6 +1,6 @@
 # NetSecManagementProject
 
-Created by **Anthony Jamieson**, **Briah Graves** and **Joseph Drouillard**.
+Final project for UIW Network Security Management. Created by **Anthony Jamieson**, **Briah Graves** and **Joseph Drouillard**.
 
 # Summary
 
